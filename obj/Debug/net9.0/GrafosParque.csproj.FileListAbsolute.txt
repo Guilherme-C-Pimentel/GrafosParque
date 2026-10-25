@@ -1,0 +1,14 @@
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\bin\Debug\net9.0\GrafosParque.exe
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\bin\Debug\net9.0\GrafosParque.deps.json
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\bin\Debug\net9.0\GrafosParque.runtimeconfig.json
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\bin\Debug\net9.0\GrafosParque.dll
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\bin\Debug\net9.0\GrafosParque.pdb
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.AssemblyInfoInputs.cache
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.AssemblyInfo.cs
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.csproj.CoreCompileInputs.cache
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.dll
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\refint\GrafosParque.dll
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.pdb
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\GrafosParque.genruntimeconfig.cache
+C:\Users\pimen\OneDrive\Desktop\PUC-S.I\ALGORITIMOS EM GRAFOS\ATIVIDADE PRATICA 2\GrafosParque\obj\Debug\net9.0\ref\GrafosParque.dll
